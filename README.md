@@ -21,9 +21,15 @@ This is an iOS application which use Core Data to store patient data locally in 
 ## Screenshots
 This will be updated as the program evolves.
 
-<h3>News List</h3>
-<img src="https://i.imgur.com/OSJNGCa.png" width="300" height="650">
+<h3>Add data to Core Data</h3>
+<img src="https://i.imgur.com/BS98Gzx.png" width="300" height="650">
 
-<h3>News Web View</h3>
-<img src="https://i.imgur.com/ze1FaIj.png" width="300" height="650">
+<h3>Read data from Core Data</h3>
+<img src="https://i.imgur.com/tS81Anj.png" width="300" height="650">
+
+<h3>Update data to Core Data</h3>
+<img src="https://i.imgur.com/yUnWz9m.png" width="300" height="650">
+
+<h3>Delete data from Core Data</h3>
+<img src="https://i.imgur.com/Qquwd0C.png" width="300" height="650">
 
